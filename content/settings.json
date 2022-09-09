@@ -1,7 +1,7 @@
 {
   "domain": "poowernutryun.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#4e1b5f",
+  "primary_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
