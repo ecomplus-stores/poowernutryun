@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil ✅📦"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Compre em até 2x sem juros no cartão, entregamos para todo o Brasil!"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Diferentes promoções ao longo de todo ano. 🌿✨🤭"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
