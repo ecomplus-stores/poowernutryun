@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.260f0b4d958b975197d82475ce7651cf.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.c33904d5bbabce58143500a2e41b1759.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.445bc1fc6c732c416364fb3725047cd7.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.b188e8cb9d9298a0927e585fb6c6775e.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.9f1dc7464d8e3a5f7fa39dae49e6019b.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "POWER NUTRYUN",
+  "short_name": "poowernutryun",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "poowernutryun",
+  "background_color": "#ffffff",
+  "theme_color": "#4e1b5f"
+}
